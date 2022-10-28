@@ -7,6 +7,9 @@ int main()
     system("chcp 1251");
 
     cout << "\n";
+
+    cout << "\t\t\tЗадание 2.\n\n";
+
     cout << "\tКаждый\n";
     cout << "\t\tохотник\n";
     cout << "\t\t\tжелает\n";
